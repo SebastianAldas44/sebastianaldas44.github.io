@@ -1,0 +1,46 @@
+{
+	"DEB1": [
+		{
+			"id": "1",
+			"consumo-actual": "123456.67890"
+		},
+		{
+			"id": "2",
+			"consumo-actual": "123456.67890"
+		},
+		{
+			"id": "3",
+			"consumo-actual": "123456.67890"
+		}
+	],
+	"DEB2": [
+		{
+			"id": "1",
+			"consumo-actual": "123456.67890"
+		},
+		{
+			"id": "2",
+			"consumo-actual": "123456.67890"
+		}
+	],
+	"DEB3": [
+		{
+			"id": "1",
+			"consumo-actual": "123456.67890"
+		},
+		{
+			"id": "2",
+			"consumo-actual": "123456.67890"
+		},
+		{
+			"id": "3",
+			"consumo-actual": "123456.67890"
+		},
+		{
+			"id": "4",
+			"consumo-actual": "123456.67890"
+		}
+	],
+	"fecha-actual": "14/02/2023",
+	"hora-actual": "15:00"
+}
