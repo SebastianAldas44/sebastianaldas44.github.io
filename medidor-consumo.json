@@ -1,5 +1,5 @@
 {
-	"DEB1": [
+	"CUARTO 1": [
 		{
 			"id": "1",
 			"consumo-actual": "123456.67890"
@@ -13,7 +13,7 @@
 			"consumo-actual": "123456.67890"
 		}
 	],
-	"DEB2": [
+	"CUARTO 2": [
 		{
 			"id": "1",
 			"consumo-actual": "123456.67890"
@@ -23,7 +23,7 @@
 			"consumo-actual": "123456.67890"
 		}
 	],
-	"DEB3": [
+	"CUARTO 3": [
 		{
 			"id": "1",
 			"consumo-actual": "123456.67890"
