@@ -2,6 +2,11 @@
 	"mensaje": null,
 	"respuesta": {
 		"fecha": "2023-03-15",
+		"lugar": {
+			"id": "11",
+			"nombre": "",
+			"estado": "A"
+		},
 		"horaNotificacion": "10:30",
 		"primeraAutobomba": "1",
 		"aplicaPrimeraAutobomba": "true",
