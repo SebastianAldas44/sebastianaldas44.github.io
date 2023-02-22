@@ -2,15 +2,18 @@
 	"CUARTO 1": [
 		{
 			"id": "1",
-			"consumo-actual": "123456.67890"
+			"consumo-actual": "123456.67890",
+			"medicion-actual": "123456.67890"
 		},
 		{
 			"id": "2",
-			"consumo-actual": "123456.67890"
+			"consumo-actual": "123456.67890",
+			"medicion-actual": "123456.67890"
 		},
 		{
 			"id": "3",
-			"consumo-actual": "123456.67890"
+			"consumo-actual": "123456.67890",
+			"medicion-actual": "123456.67890"
 		}
 	],
 	"fecha-actual": "14/02/2023",
