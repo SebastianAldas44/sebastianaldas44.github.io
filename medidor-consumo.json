@@ -16,6 +16,40 @@
 			"medicion-actual": "xtdiTUEsTprafbEmugAw4w=="
 		}
 	],
+	"DEB2": [
+		{
+			"id": "Etu85umyEbtXiYZTx9JmWw==",
+			"consumo-actual": "xtdiTUEsTprafbEmugAw4w==",
+			"medicion-actual": "xtdiTUEsTprafbEmugAw4w=="
+		},
+		{
+			"id": "gdTcQhX0Lh/B9LD7QXOYvA==",
+			"consumo-actual": "xtdiTUEsTprafbEmugAw4w==",
+			"medicion-actual": "xtdiTUEsTprafbEmugAw4w=="
+		},
+		{
+			"id": "n06v60HyuPzSoJbs5w+4ng==",
+			"consumo-actual": "xtdiTUEsTprafbEmugAw4w==",
+			"medicion-actual": "xtdiTUEsTprafbEmugAw4w=="
+		}
+	],
+	"DEB3": [
+		{
+			"id": "Etu85umyEbtXiYZTx9JmWw==",
+			"consumo-actual": "xtdiTUEsTprafbEmugAw4w==",
+			"medicion-actual": "xtdiTUEsTprafbEmugAw4w=="
+		},
+		{
+			"id": "gdTcQhX0Lh/B9LD7QXOYvA==",
+			"consumo-actual": "xtdiTUEsTprafbEmugAw4w==",
+			"medicion-actual": "xtdiTUEsTprafbEmugAw4w=="
+		},
+		{
+			"id": "n06v60HyuPzSoJbs5w+4ng==",
+			"consumo-actual": "xtdiTUEsTprafbEmugAw4w==",
+			"medicion-actual": "xtdiTUEsTprafbEmugAw4w=="
+		}
+	],
 	"fecha-actual": "14/02/2023",
 	"hora-actual": "15:00"
 }
