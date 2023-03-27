@@ -1,34 +1,29 @@
 {
 	"DEB1": [
 		{
-			"id": "8Zrlm4L8oA2TImXU/6V0ew==",
-			"consumo-actual": "PJg6/PCDDlRqAyK12nQVjg==",
-			"medicion-actual": "5ShAXVdGrpGPipGwwiM+wQ=="
-		},
-		{
-			"consumo-actual": "IEhINd4SFjZN9vIKQCVbAA==",
-			"id": "EX98Pci/1mw/FW4ZF6UQeg==",
-			"medicion-actual": "/XQQ17D/3zKNmNi0PZS2zg=="
-		},
-		{
-			"consumo-actual": "11e1GBU6oaqTqEuBoMfV+A==",
-			"id": "zxYFqH69Ghfh1xIs0dtPyg==",
-			"medicion-actual": "PmKlsF7j6uIEm1jlL5yJOA=="
-		},
-		{
-			"consumo-actual": "cmwKFXwsVrC5P6ZNSCXYtA==",
-			"id": "WeK6MmAhKiBh5uxwEQ4Mxw==",
-			"medicion-actual": "IQDU21peHr7lVonst5qM+A=="
-		},
-		{
-			"consumo-actual": "APrKI9uGGRwnhjFUtKGShg==",
 			"id": "14GGDURcu2RaBM7BYiw87w==",
-			"medicion-actual": "4N6TVJDrIvb0PmW4+p7cPA=="
+			"medicion-actual": "OJoY33FFE641hZ4vrf5ZrQ==",
+			"consumo-actual": "OJoY33FFE641hZ4vrf5ZrQ=="
 		},
 		{
-			"consumo-actual": "uD6OTvYbJgUsM8EoUn1T3A==",
-			"id": "nMWEBVNXMhcrdUFKzFS7bw==",
-			"medicion-actual": "8RLDeT6fCiE/XR4SNRta6w=="
+			"id": "8Zrlm4L8oA2TImXU/6V0ew==",
+			"medicion-actual": "5pWVLD6HqOvPctT0hnjZQw==",
+			"consumo-actual": "5pWVLD6HqOvPctT0hnjZQw=="
+		},
+		{
+			"id": "EX98Pci/1mw/FW4ZF6UQeg==",
+			"medicion-actual": "SZPL3gE5A+7GQldyJM2FBA==",
+			"consumo-actual": "SZPL3gE5A+7GQldyJM2FBA=="
+		},
+		{
+			"id": "zxYFqH69Ghfh1xIs0dtPyg==",
+			"medicion-actual": "73z0KT4ZsBxUQsbSZXvg5g==",
+			"consumo-actual": "73z0KT4ZsBxUQsbSZXvg5g=="
+		},
+		{
+			"id": "WeK6MmAhKiBh5uxwEQ4Mxw==",
+			"medicion-actual": "yZiFI9hOJbh7mBj9/32t/w==",
+			"consumo-actual": "yZiFI9hOJbh7mBj9/32t/w=="
 		}
 	],
 	"fecha-actual": "14/02/2023",
