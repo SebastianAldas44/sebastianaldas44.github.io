@@ -1,19 +1,34 @@
 {
 	"DEB1": [
 		{
-			"id": "Etu85umyEbtXiYZTx9JmWw==",
-			"consumo-actual": "xtdiTUEsTprafbEmugAw4w==",
-			"medicion-actual": "xtdiTUEsTprafbEmugAw4w=="
+			"id": "8Zrlm4L8oA2TImXU/6V0ew==",
+			"consumo-actual": "PJg6/PCDDlRqAyK12nQVjg==",
+			"medicion-actual": "5ShAXVdGrpGPipGwwiM+wQ=="
 		},
 		{
-			"id": "gdTcQhX0Lh/B9LD7QXOYvA==",
-			"consumo-actual": "xtdiTUEsTprafbEmugAw4w==",
-			"medicion-actual": "xtdiTUEsTprafbEmugAw4w=="
+			"consumo-actual": "IEhINd4SFjZN9vIKQCVbAA==",
+			"id": "EX98Pci/1mw/FW4ZF6UQeg==",
+			"medicion-actual": "/XQQ17D/3zKNmNi0PZS2zg=="
 		},
 		{
-			"id": "n06v60HyuPzSoJbs5w+4ng==",
-			"consumo-actual": "xtdiTUEsTprafbEmugAw4w==",
-			"medicion-actual": "xtdiTUEsTprafbEmugAw4w=="
+			"consumo-actual": "11e1GBU6oaqTqEuBoMfV+A==",
+			"id": "zxYFqH69Ghfh1xIs0dtPyg==",
+			"medicion-actual": "PmKlsF7j6uIEm1jlL5yJOA=="
+		},
+		{
+			"consumo-actual": "cmwKFXwsVrC5P6ZNSCXYtA==",
+			"id": "WeK6MmAhKiBh5uxwEQ4Mxw==",
+			"medicion-actual": "IQDU21peHr7lVonst5qM+A=="
+		},
+		{
+			"consumo-actual": "APrKI9uGGRwnhjFUtKGShg==",
+			"id": "14GGDURcu2RaBM7BYiw87w==",
+			"medicion-actual": "4N6TVJDrIvb0PmW4+p7cPA=="
+		},
+		{
+			"consumo-actual": "uD6OTvYbJgUsM8EoUn1T3A==",
+			"id": "nMWEBVNXMhcrdUFKzFS7bw==",
+			"medicion-actual": "8RLDeT6fCiE/XR4SNRta6w=="
 		}
 	],
 	"fecha-actual": "14/02/2023",
