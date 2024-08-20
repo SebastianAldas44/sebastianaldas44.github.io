@@ -1,0 +1,31 @@
+{
+    "DEB1": [
+        {
+            "id": "14GGDURcu2RaBM7BYiw87w==",
+            "medicion-actual": "OJoY33FFE641hZ4vrf5ZrQ==",
+            "consumo-actual": "OJoY33FFE641hZ4vrf5ZrQ=="
+        },
+        {
+            "id": "8Zrlm4L8oA2TImXU/6V0ew==",
+            "medicion-actual": "5pWVLD6HqOvPctT0hnjZQw==",
+            "consumo-actual": "5pWVLD6HqOvPctT0hnjZQw=="
+        },
+        {
+            "id": "EX98Pci/1mw/FW4ZF6UQeg==",
+            "medicion-actual": "SZPL3gE5A+7GQldyJM2FBA==",
+            "consumo-actual": "SZPL3gE5A+7GQldyJM2FBA=="
+        },
+        {
+            "id": "zxYFqH69Ghfh1xIs0dtPyg==",
+            "medicion-actual": "73z0KT4ZsBxUQsbSZXvg5g==",
+            "consumo-actual": "73z0KT4ZsBxUQsbSZXvg5g=="
+        },
+        {
+            "id": "WeK6MmAhKiBh5uxwEQ4Mxw==",
+            "medicion-actual": "yZiFI9hOJbh7mBj9/32t/w==",
+            "consumo-actual": "yZiFI9hOJbh7mBj9/32t/w=="
+        }
+    ],
+    "fecha-actual": "14/02/2023",
+    "hora-actual": "15:00"
+}
